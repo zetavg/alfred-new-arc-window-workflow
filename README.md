@@ -8,6 +8,6 @@ Open a new [Arc](https://thebrowser.company/) browser window on a specific space
 
 Or download it [here](https://github.com/zetavg/alfred-new-arc-window-workflow/blob/master/New%20Arc%20Window%20(naw).alfredworkflow?raw=true).
 
-Use-cases: 
+## Use-cases
 
 * When starting to work on a specific project, open a new window directly with the corresponding space without swiping through other spaces of distraction.
