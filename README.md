@@ -12,7 +12,8 @@ Or download it [here](https://github.com/zetavg/alfred-new-arc-window-workflow/b
 
 * When starting to work on a specific project, open a new window directly with the corresponding space without swiping through other spaces of distraction.
 
-## Known Issues
+## Known Issues & Limitations
 
 * Currently, only spaces that have names will be listed.
+* Space names must be unique.
 * It may take a few seconds for a newly created space to be listed.
